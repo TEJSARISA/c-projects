@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 C-Projects Repository
+# 
 
 ### Collection of Professional C Programming Projects for Learning & Interview Preparation
 
