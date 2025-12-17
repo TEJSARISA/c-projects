@@ -2,8 +2,7 @@
 
 # 
 
-### Collection of Professional C Programming Projects for Learning & Interview Preparation
-
+### 
 [![GitHub](https://img.shields.io/badge/GitHub-TEJSARISA/c--projects-blue?logo=github)](https://github.com/TEJSARISA/c-projects)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Language](https://img.shields.io/badge/Language-C-blue)]()
